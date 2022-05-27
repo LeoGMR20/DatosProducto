@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatosProducto</string>
+    <string name="textBtnRegistrar">Registrar</string>
+    <string name="hint_codProd">Código Producto</string>
+    <string name="hint_marca">Marca</string>
+    <string name="hint_denominacion">Denominación</string>
+    <string name="hint_precio">Precio</string>
+    <string name="txtBtnProcesar">Procesar</string>
+</resources>
