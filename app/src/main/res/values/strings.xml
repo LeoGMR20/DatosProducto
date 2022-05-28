@@ -6,4 +6,17 @@
     <string name="hint_denominacion">Denominación</string>
     <string name="hint_precio">Precio</string>
     <string name="txtBtnProcesar">Procesar</string>
+    <string name="titValoMed">Valoración Media</string>
+    <string name="consignaValoMed">¿Está satisfecho con el servicio prestado?</string>
+    <string name="txtSwServicioPrestado">No/Si</string>
+    <string name="hintReclamo">Reclamo</string>
+    <string name="txtPuntuacionDefault">Puntuación</string>
+    <string name="txtBtnValoracion">Calcular Valoración</string>
+    <string name="txtSwServicioPrestado2">Si/No</string>
+    <string name="txtFactura">Detalle para Facturación</string>
+    <string name="txtPagar">Pagar</string>
+    <string name="txtAgradecimiento">Gracias por su compra</string>
+    <string name="txtPrecio">Precio:</string>
+    <string name="txtDescuento">Descuento</string>
+    <string name="txtTotal">Total:</string>
 </resources>
